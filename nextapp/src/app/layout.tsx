@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     title: "Do Humans really have a **FREE WILL?**",
     description:
       "Join this experiment: choose a random number (1–100) and help reveal whether humans follow a hidden pattern.",
-    url: "https://free-will.vercel.app",
+    url: "https://dohumanshavefreewill.vercel.app/",
     siteName: "Randomness Experiment",
     type: "website",
   },
